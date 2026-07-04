@@ -1,9 +1,13 @@
 <div align="center">
-  # Preran Rai — AI Research & Developer Portfolio
+  <h1 align="center">🚀 Preran Rai — AI Research & Developer Portfolio</h1>
 
-  **AI Researcher • Full-Stack Developer • Computer Vision Enthusiast**
+  <p align="center">
+    <b>AI Researcher • Full-Stack Developer • Computer Vision Enthusiast</b>
+  </p>
 
-  A modern, high-performance web portfolio showcasing cutting-edge artificial intelligence research, full-stack engineering, and interactive web design.
+  <p align="center">
+    A modern, high-performance web portfolio showcasing cutting-edge artificial intelligence research, full-stack engineering, and interactive web design.
+  </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -14,7 +18,7 @@
   </p>
 
   <h3>
-    <a href="[TODO: Replace with Vercel Deployment URL]">🌐 Live Portfolio</a>
+    <a href="https://preran-rai.vercel.app/">🌐 Live Portfolio</a>
     <span> | </span>
     <a href="https://www.linkedin.com/in/preran-rai-92414b293/">💼 LinkedIn</a>
     <span> | </span>
@@ -127,15 +131,17 @@ To run this portfolio locally on your machine, follow these steps:
 This repository is heavily optimized for zero-configuration deployment on **Vercel**. 
 
 **Live Portfolio:**
-> [TODO: Add Vercel Deployment URL]
+https://preran-rai.vercel.app/
 
 To deploy your own instance, push the code to a GitHub repository, link it to your Vercel account, and deploy using the default Next.js framework preset.
 
 ## 📫 Contact
 
+Feel free to reach out for collaborations, research discussions, or engineering opportunities!
+
 - **GitHub**: [https://github.com/PreranRai](https://github.com/PreranRai)
 - **LinkedIn**: [https://www.linkedin.com/in/preran-rai-92414b293/](https://www.linkedin.com/in/preran-rai-92414b293/)
-- **Portfolio**: [TODO: Add Portfolio URL after deployment]
+- **Portfolio**: [https://preran-rai.vercel.app/](https://preran-rai.vercel.app/)
 
 ---
 
