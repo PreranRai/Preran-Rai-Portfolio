@@ -392,8 +392,8 @@ export const CERTIFICATIONS = [
     pdf: "/certificates/Preran Rai_Registration.pdf"
   },
   {
-    title: "Nitte Hackathon",
-    organization: "To be updated",
+    title: "HackFest 2026 – Hackathon Participation",
+    organization: "NMAM Institute of Technology (NMAMIT), Nitte (Deemed to be University)",
     pdf: "/certificates/Nitte_Hackathon.jpeg"
   }
 ];
